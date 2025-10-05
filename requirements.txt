@@ -1,1 +1,3 @@
 pip install openpyxl
+pip install -r requirements.txt
+pip install xlsxwriter
